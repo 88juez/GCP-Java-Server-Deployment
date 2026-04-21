@@ -1,3 +1,5 @@
+<img width="1452" height="474" alt="Captura de pantalla 2026-04-21 085244" src="https://github.com/user-attachments/assets/c02870f7-0026-475e-8c5b-8a1693d3a22c" />
+<img width="1392" height="823" alt="Captura de pantalla 2026-04-21 085237" src="https://github.com/user-attachments/assets/ae010104-7262-47f3-93de-af87af3cc7e4" />
 # Implementación y Optimizaciónde servidor Minecraft en GCP
 
 Este repositorio documenta el despliegue de un servidor de aplicaciones Java (Minecraft Engine) en la nube, enfocado en la optimización de recursos limitados y la persistencia de servicios.
