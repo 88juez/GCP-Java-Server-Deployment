@@ -1,5 +1,3 @@
-<img width="1452" height="474" alt="Captura de pantalla 2026-04-21 085244" src="https://github.com/user-attachments/assets/c02870f7-0026-475e-8c5b-8a1693d3a22c" />
-<img width="1392" height="823" alt="Captura de pantalla 2026-04-21 085237" src="https://github.com/user-attachments/assets/ae010104-7262-47f3-93de-af87af3cc7e4" />
 # Implementación y Optimizaciónde servidor Minecraft en GCP
 
 Este repositorio documenta el despliegue de un servidor de aplicaciones Java (Minecraft Engine) en la nube, enfocado en la optimización de recursos limitados y la persistencia de servicios.
@@ -30,3 +28,5 @@ Implementación de `screen` en Linux, permitiendo que el servidor permanezca act
 <img width="1038" height="678" alt="Captura de pantalla 2026-04-21 053338" src="https://github.com/user-attachments/assets/3c4ae064-e0df-48ac-9f31-f9044c52f9d0" />
 <img width="862" height="514" alt="Captura de pantalla 2026-04-21 071111" src="https://github.com/user-attachments/assets/e12a2956-df5b-48c4-b3e2-4caf647e3390" />
 <img width="950" height="90" alt="Captura de pantalla 2026-04-21 080842" src="https://github.com/user-attachments/assets/c9c93b61-8339-4124-ab40-8d79a40cbfb5" />
+<img width="1452" height="474" alt="Captura de pantalla 2026-04-21 085244" src="https://github.com/user-attachments/assets/c02870f7-0026-475e-8c5b-8a1693d3a22c" />
+<img width="1392" height="823" alt="Captura de pantalla 2026-04-21 085237" src="https://github.com/user-attachments/assets/ae010104-7262-47f3-93de-af87af3cc7e4" />
