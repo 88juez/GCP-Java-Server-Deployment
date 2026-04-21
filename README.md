@@ -22,6 +22,12 @@ Dada la restricción de RAM en la instancia, se configuraron flags avanzados de 
 ### 3. Persistencia de Servicio
 Implementación de `screen` en Linux, permitiendo que el servidor permanezca activo de forma independiente a la sesión de usuario o desconexión del terminal SSH.
 
+Backend: Java / PaperMC.
+Cloud: Google Cloud Platform (E2-medium).
+Redes: DuckDNS + IP Estática + Firewall VPC.
+DevOps: GNU Screen para disponibilidad 24/7.
+Documentación: Portafolio profesional en GitHub.
+
 ## 📸 Evidencias
 <img width="899" height="713" alt="Captura de pantalla 2026-04-21 053203" src="https://github.com/user-attachments/assets/5872ed83-5b50-4142-9775-30a1795955f7" />
 <img width="1029" height="479" alt="Captura de pantalla 2026-04-21 053318" src="https://github.com/user-attachments/assets/d1470a20-d508-4f8e-8e59-be20dac736ed" />
