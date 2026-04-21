@@ -1,4 +1,4 @@
-# Implementación y Optimización de Servidor Minecraft Java en GCP
+# Implementación y Optimizaciónde servidor Minecraft en GCP
 
 Este repositorio documenta el despliegue de un servidor de aplicaciones Java (Minecraft Engine) en la nube, enfocado en la optimización de recursos limitados y la persistencia de servicios.
 
