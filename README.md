@@ -30,7 +30,7 @@ Redes: DuckDNS + IP Estática + Firewall VPC.
 
 DevOps: GNU Screen para disponibilidad 24/7.
 
-Documentación: Portafolio profesional en GitHub.
+Documentación: Portafolio en GitHub.
 
 ## 📸 Evidencias
 <img width="899" height="713" alt="Captura de pantalla 2026-04-21 053203" src="https://github.com/user-attachments/assets/5872ed83-5b50-4142-9775-30a1795955f7" />
